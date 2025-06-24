@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Lajos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br >
+
+## Languages and Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=appveyor&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=appveyor&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=appveyor&logo=javascript)
+![React JS](https://img.shields.io/badge/-ReactJS-blue?style=for-the-badge&logo=appveyor&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=appveyor&logo=bootstrap)
+![PYTHON](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=appveyor&logo=python&Color=yellow)
+![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=appveyor&logo=visual-studio-code)
 
 <!--
 **Lajos-N/Lajos-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
