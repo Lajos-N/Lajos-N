@@ -1,6 +1,8 @@
 Hallo, ich bin Lajos! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Derzeit absolviere ich als **hochmotivierter Teilnehmer** einer **zweijährigen Umschulung zum Fachinformatiker für Anwendungsentwicklung** meine Ausbildung. Ich bin auf der Suche nach einem **achtmonatigen Praktikum**, um mein Wissen zu vertiefen und mein Wachstum als **zukünftiger Entwickler** zu fördern.
+Derzeit absolviere ich als **hochmotivierter Teilnehmer** einer **zweijährigen Umschulung zum Fachinformatiker für Anwendungsentwicklung** meine Ausbildung. 
+
+Ich bin auf der Suche nach einem **achtmonatigen Praktikum**, um mein Wissen zu vertiefen und mein Wachstum als **zukünftiger Entwickler** zu fördern.
 
 
 ## Languages and Tools:
