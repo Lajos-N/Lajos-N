@@ -4,6 +4,9 @@ Derzeit absolviere ich als **hochmotivierter Teilnehmer** einer **zweijährigen 
 
 Ich bin auf der Suche nach einem **achtmonatigen Praktikum**, um mein Wissen zu vertiefen und mein Wachstum als **zukünftiger Entwickler** zu fördern.
 
+Um einen Einblick in einige meiner bisherigen Projekte zu geben, habe ich eine Portfolio-Webseite erstellt. Dort finden Sie Beispiele meiner Arbeiten sowie weitere Informationen über meine Kenntnisse und Interessen:<br>
+👉 <a href="https://lajos-n.github.io/portfolio-site/" target="_blank">Mein Portfolio</a>
+
 ## Sprachen und Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=appveyor&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=appveyor&logo=css3)
